@@ -59,3 +59,19 @@ Hands-on AWS project covering EC2, S3, IAM roles, SSH and Linux server configura
 **Tech:** AWS EC2, S3, IAM, Linux, Apache
 
 [View Project](https://github.com/akshayshendurkar55-dot/AWS-EC2-S3-Static-Hosting)
+
+## Currently Learning
+
+- Kubernetes
+- Jenkins
+- Advanced Git & GitHub workflows
+- CI/CD automation
+- AWS cloud infrastructure
+- Infrastructure as Code with Terraform
+
+ ## Connect With Me
+
+- LinkedIn: [Akshay Shendurkar]https://www.linkedin.com/in/laxmikant-shendurkar-b34b3622a/?isSelfProfile=true
+- GitHub: [akshayshendurkar55-dot](https://github.com/akshayshendurkar55-dot)
+
+  
