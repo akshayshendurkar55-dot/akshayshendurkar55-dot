@@ -1,4 +1,4 @@
-# Hi, I'm Akshay 👋
+# Hi, I'm Laxmikant👋
 
 Cloud & DevOps fresher building hands-on projects with AWS, Linux, Docker, Terraform and CI/CD.
 
