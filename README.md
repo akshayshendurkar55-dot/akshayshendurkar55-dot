@@ -29,3 +29,33 @@ I believe in learning by doing, understanding the technologies I use, and contin
 - Python
 - Bash
 - JavaScript / Node.js
+
+ ## Featured Projects
+
+### ☁️ Cloud Resume Challenge
+AWS-based cloud resume project with a static website, serverless visitor counter and infrastructure automation.
+
+**Tech:** AWS, S3, Lambda, API Gateway, DynamoDB, IAM, Terraform, GitHub Actions
+
+[View Project](https://github.com/akshayshendurkar55-dot/cloud-resume-challenge)
+
+### 🎬 StreamVault
+A Netflix-style full-stack application built with a React frontend, Node.js backend and PostgreSQL database.
+
+**Tech:** React, Node.js, Express, PostgreSQL, Docker
+
+[View Project](https://github.com/akshayshendurkar55-dot/StreamVault)
+
+### 🐳 Docker Full-Stack Application
+A containerized full-stack application demonstrating frontend, backend, database and multi-container orchestration using Docker Compose.
+
+**Tech:** React, Node.js, MongoDB, Docker, Docker Compose
+
+[View Project](https://github.com/akshayshendurkar55-dot/docker-fullstack-app)
+
+### ☁️ AWS EC2 + S3 Architecture
+Hands-on AWS project covering EC2, S3, IAM roles, SSH and Linux server configuration.
+
+**Tech:** AWS EC2, S3, IAM, Linux, Apache
+
+[View Project](https://github.com/akshayshendurkar55-dot/AWS-EC2-S3-Static-Hosting)
