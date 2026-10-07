@@ -9,3 +9,23 @@ I'm a B.Tech Computer Science student focused on Cloud and DevOps. I am gaining 
 My goal is to start my career as a Cloud/DevOps Engineer and continuously strengthen my skills in cloud infrastructure, automation, containers, CI/CD and DevOps practices.
 
 I believe in learning by doing, understanding the technologies I use, and continuously improving my ability to solve real-world problems.
+
+## Tech Stack
+
+### Cloud
+- AWS
+
+### DevOps & Infrastructure
+- Docker
+- Terraform
+- Git
+- GitHub Actions
+
+### Operating Systems & Networking
+- Linux
+- Networking
+
+### Programming & Scripting
+- Python
+- Bash
+- JavaScript / Node.js
